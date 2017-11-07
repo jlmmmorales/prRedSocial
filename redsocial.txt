@@ -1,0 +1,10 @@
+Tras, Brandon%31%brandon@correo.com%MUSICA,DEPORTE,NATACION
+Wong, Alicia%23%wong@correo.com%CINE,BALONCESTO
+Chin, Mao%25%chin@correo.com%CINE,MOTOCICLISMO
+Uno, Juan%15%uno@correo.com%SENDERISMO,VIAJAR
+Dos, Pedro%18%dos@correo.com%NATACION,LECTURA,CINE
+Tres, María%25%tres@correo.com%NATACION
+Cuatro, Ramón%40%cuatro@correo.com%CINE,NATACION,BALONCESTO
+Perkinson, John M%38%jmperk@correo.com%MOTOCICLISMO,SENDERISMO
+Hofferpield David%55%dhoff@correo.com%MAGIA,NATACION
+Stanton Peggy%21%pegstan@correo.com%NATACION
